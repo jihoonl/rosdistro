@@ -552,6 +552,8 @@ repositories:
   kobuki_soft:
     packages:
       kobuki_softnode:
+      kobuki_softapps:
+      kobuki_soft:
     status: developed
     tags:
       release: release/hydro/{package}/{version}
