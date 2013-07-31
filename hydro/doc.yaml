@@ -10,7 +10,7 @@ repositories:
   ackermann_teleop:
     type: git
     url: https://github.com/jack-oquin/ackermann_teleop.git
-    version: master
+    version: masterasdfasdf
   actionlib:
     type: git
     url: https://github.com/ros/actionlib.git
